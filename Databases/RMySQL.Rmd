@@ -1,0 +1,61 @@
+---
+title: "RMySQL: Database Interface and 'MySQL' Driver for R"
+output: html_notebook
+---
+
+
+## References
+1. [Homepage](https://cran.r-project.org/web/packages/RMySQL/)
+1. [Reference manual](https://cran.r-project.org/web/packages/RMySQL/RMySQL.pdf)
+
+## Install
+* install.packages("RMySQL")
+
+```{r}
+library(RMySQL)
+```
+
+
+## Create connection
+
+```{r}
+con <- dbConnect(MySQL(), user='root', password='1', dbname='hd1cas_db', host='127.0.0.1')
+```
+
+
+## List tables
+```{r}
+dbListTables(con)
+```
+
+
+## List fields
+```{r}
+dbListFields(con, 'User')
+```
+
+
+## Query data
+```{r}
+res1 <- dbSendQuery(con, 'CALL proc_userAccount();')
+
+data = dbFetch(res1, n=-1)
+print(dim(data))
+print(data)
+print(dbClearResult(res1))
+
+while (dbMoreResults(con)) {
+  res2 = dbNextResult(con)
+  data = dbFetch(res2, n=-1)
+  print(dim(data))
+  print(data)
+  print(dbClearResult(res2))
+}
+```
+
+
+## Close connection
+```{r}
+dbDisconnect(con)
+```
+

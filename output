@@ -1,0 +1,1668 @@
+ [1] 1.2 1.3 1.3 1.5 1.6 2.3 2.6 2.8 3.0
+[10] 3.5 4.8 4.9 5.2 5.3 5.5
+[1] "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+[2] "/usr/local/lib/R/site-library"                  
+[3] "/usr/lib/R/site-library"                        
+[4] "/usr/lib/R/library"                             
+ [1] ".GlobalEnv"       
+ [2] "package:ggplot2"  
+ [3] "tools:rstudio"    
+ [4] "package:stats"    
+ [5] "package:graphics" 
+ [6] "package:grDevices"
+ [7] "package:utils"    
+ [8] "package:datasets" 
+ [9] "package:methods"  
+[10] "Autoloads"        
+[11] "package:base"     
+             Package       
+assertthat   "assertthat"  
+backports    "backports"   
+base64enc    "base64enc"   
+BH           "BH"          
+bitops       "bitops"      
+caTools      "caTools"     
+colorspace   "colorspace"  
+dichromat    "dichromat"   
+digest       "digest"      
+evaluate     "evaluate"    
+formatR      "formatR"     
+ggplot2      "ggplot2"     
+git2r        "git2r"       
+gtable       "gtable"      
+highr        "highr"       
+hms          "hms"         
+htmltools    "htmltools"   
+jsonlite     "jsonlite"    
+knitr        "knitr"       
+labeling     "labeling"    
+lazyeval     "lazyeval"    
+magrittr     "magrittr"    
+markdown     "markdown"    
+memoise      "memoise"     
+mime         "mime"        
+munsell      "munsell"     
+openssl      "openssl"     
+packrat      "packrat"     
+PKI          "PKI"         
+plyr         "plyr"        
+R6           "R6"          
+RColorBrewer "RColorBrewer"
+Rcpp         "Rcpp"        
+RCurl        "RCurl"       
+reshape2     "reshape2"    
+RJSONIO      "RJSONIO"     
+rmarkdown    "rmarkdown"   
+rprojroot    "rprojroot"   
+rsconnect    "rsconnect"   
+rstudioapi   "rstudioapi"  
+scales       "scales"      
+stringi      "stringi"     
+stringr      "stringr"     
+tibble       "tibble"      
+whisker      "whisker"     
+withr        "withr"       
+yaml         "yaml"        
+curl         "curl"        
+devtools     "devtools"    
+digest       "digest"      
+git2r        "git2r"       
+httr         "httr"        
+jsonlite     "jsonlite"    
+KernSmooth   "KernSmooth"  
+memoise      "memoise"     
+mime         "mime"        
+openssl      "openssl"     
+R6           "R6"          
+rstudioapi   "rstudioapi"  
+whisker      "whisker"     
+withr        "withr"       
+base         "base"        
+             LibPath                                          
+assertthat   "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+backports    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+base64enc    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+BH           "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+bitops       "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+caTools      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+colorspace   "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+dichromat    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+digest       "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+evaluate     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+formatR      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+ggplot2      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+git2r        "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+gtable       "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+highr        "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+hms          "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+htmltools    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+jsonlite     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+knitr        "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+labeling     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+lazyeval     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+magrittr     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+markdown     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+memoise      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+mime         "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+munsell      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+openssl      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+packrat      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+PKI          "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+plyr         "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+R6           "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+RColorBrewer "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+Rcpp         "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+RCurl        "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+reshape2     "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+RJSONIO      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+rmarkdown    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+rprojroot    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+rsconnect    "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+rstudioapi   "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+scales       "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+stringi      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+stringr      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+tibble       "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+whisker      "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+withr        "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+yaml         "/home/fimplus/R/x86_64-pc-linux-gnu-library/3.2"
+curl         "/usr/local/lib/R/site-library"                  
+devtools     "/usr/local/lib/R/site-library"                  
+digest       "/usr/local/lib/R/site-library"                  
+git2r        "/usr/local/lib/R/site-library"                  
+httr         "/usr/local/lib/R/site-library"                  
+jsonlite     "/usr/local/lib/R/site-library"                  
+KernSmooth   "/usr/local/lib/R/site-library"                  
+memoise      "/usr/local/lib/R/site-library"                  
+mime         "/usr/local/lib/R/site-library"                  
+openssl      "/usr/local/lib/R/site-library"                  
+R6           "/usr/local/lib/R/site-library"                  
+rstudioapi   "/usr/local/lib/R/site-library"                  
+whisker      "/usr/local/lib/R/site-library"                  
+withr        "/usr/local/lib/R/site-library"                  
+base         "/usr/lib/R/library"                             
+             Version    Priority     
+assertthat   "0.1"      NA           
+backports    "1.0.5"    NA           
+base64enc    "0.1-3"    NA           
+BH           "1.62.0-1" NA           
+bitops       "1.0-6"    NA           
+caTools      "1.17.1"   NA           
+colorspace   "1.3-2"    NA           
+dichromat    "2.0-0"    NA           
+digest       "0.6.12"   NA           
+evaluate     "0.10"     NA           
+formatR      "1.4"      NA           
+ggplot2      "2.2.1"    NA           
+git2r        "0.18.0"   NA           
+gtable       "0.2.0"    NA           
+highr        "0.6"      NA           
+hms          "0.3"      NA           
+htmltools    "0.3.5"    NA           
+jsonlite     "1.3"      NA           
+knitr        "1.15.1"   NA           
+labeling     "0.3"      NA           
+lazyeval     "0.2.0"    NA           
+magrittr     "1.5"      NA           
+markdown     "0.7.7"    NA           
+memoise      "1.0.0"    NA           
+mime         "0.5"      NA           
+munsell      "0.4.3"    NA           
+openssl      "0.9.6"    NA           
+packrat      "0.4.8-1"  NA           
+PKI          "0.1-3"    NA           
+plyr         "1.8.4"    NA           
+R6           "2.2.0"    NA           
+RColorBrewer "1.1-2"    NA           
+Rcpp         "0.12.9"   NA           
+RCurl        "1.95-4.8" NA           
+reshape2     "1.4.2"    NA           
+RJSONIO      "1.3-0"    NA           
+rmarkdown    "1.3"      NA           
+rprojroot    "1.2"      NA           
+rsconnect    "0.7"      NA           
+rstudioapi   "0.6"      NA           
+scales       "0.4.1"    NA           
+stringi      "1.1.2"    NA           
+stringr      "1.1.0"    NA           
+tibble       "1.2"      NA           
+whisker      "0.3-2"    NA           
+withr        "1.0.2"    NA           
+yaml         "2.1.14"   NA           
+curl         "2.3"      NA           
+devtools     "1.12.0"   NA           
+digest       "0.6.12"   NA           
+git2r        "0.18.0"   NA           
+httr         "1.2.1"    NA           
+jsonlite     "1.3"      NA           
+KernSmooth   "2.23-15"  "recommended"
+memoise      "1.0.0"    NA           
+mime         "0.5"      NA           
+openssl      "0.9.6"    NA           
+R6           "2.2.0"    NA           
+rstudioapi   "0.6"      NA           
+whisker      "0.3-2"    NA           
+withr        "1.0.2"    NA           
+base         "3.2.3"    "base"       
+             Depends                                          
+assertthat   NA                                               
+backports    "R (>= 3.0.0)"                                   
+base64enc    "R (>= 2.9.0)"                                   
+BH           NA                                               
+bitops       NA                                               
+caTools      "R (>= 2.2.0)"                                   
+colorspace   "R (>= 2.13.0), methods"                         
+dichromat    "R (>= 2.10), stats"                             
+digest       "R (>= 2.4.1)"                                   
+evaluate     "R (>= 3.0.2)"                                   
+formatR      "R (>= 3.0.2)"                                   
+ggplot2      "R (>= 3.1)"                                     
+git2r        "R (>= 3.0.2), methods"                          
+gtable       "R (>= 2.14)"                                    
+highr        "R (>= 3.0.2)"                                   
+hms          NA                                               
+htmltools    "R (>= 2.14.1)"                                  
+jsonlite     "methods"                                        
+knitr        "R (>= 3.1.0)"                                   
+labeling     NA                                               
+lazyeval     "R (>= 3.1.0)"                                   
+magrittr     NA                                               
+markdown     "R (>= 2.11.1)"                                  
+memoise      NA                                               
+mime         NA                                               
+munsell      NA                                               
+openssl      NA                                               
+packrat      "R (>= 3.0.0)"                                   
+PKI          "R (>= 2.9.0), base64enc"                        
+plyr         "R (>= 3.1.0)"                                   
+R6           "R (>= 3.0)"                                     
+RColorBrewer "R (>= 2.0.0)"                                   
+Rcpp         "R (>= 3.0.0)"                                   
+RCurl        "R (>= 3.0.0), methods, bitops"                  
+reshape2     NA                                               
+RJSONIO      NA                                               
+rmarkdown    "R (>= 3.0)"                                     
+rprojroot    "R (>= 3.0.0)"                                   
+rsconnect    "R (>= 3.0.0)"                                   
+rstudioapi   NA                                               
+scales       "R (>= 2.13)"                                    
+stringi      "R (>= 2.13.1)"                                  
+stringr      "R (>= 2.14)"                                    
+tibble       "R (>= 3.1.2)"                                   
+whisker      NA                                               
+withr        "R (>= 3.0.2)"                                   
+yaml         NA                                               
+curl         "R (>= 3.0.0)"                                   
+devtools     "R (>= 3.0.2)"                                   
+digest       "R (>= 2.4.1)"                                   
+git2r        "R (>= 3.0.2), methods"                          
+httr         "R (>= 3.0.0)"                                   
+jsonlite     "methods"                                        
+KernSmooth   "R (>= 2.5.0), stats"                            
+memoise      NA                                               
+mime         NA                                               
+openssl      NA                                               
+R6           "R (>= 3.0)"                                     
+rstudioapi   NA                                               
+whisker      NA                                               
+withr        "R (>= 3.0.2)"                                   
+base         NA                                               
+             Imports                                                                                                                                        
+assertthat   NA                                                                                                                                             
+backports    "utils"                                                                                                                                        
+base64enc    NA                                                                                                                                             
+BH           NA                                                                                                                                             
+bitops       NA                                                                                                                                             
+caTools      "bitops"                                                                                                                                       
+colorspace   "graphics, grDevices"                                                                                                                          
+dichromat    NA                                                                                                                                             
+digest       NA                                                                                                                                             
+evaluate     "methods, stringr (>= 0.6.2)"                                                                                                                  
+formatR      NA                                                                                                                                             
+ggplot2      "digest, grid, gtable (>= 0.1.1), MASS, plyr (>= 1.7.1),\nreshape2, scales (>= 0.4.1), stats, tibble, lazyeval"                                
+git2r        "graphics, utils"                                                                                                                              
+gtable       "grid"                                                                                                                                         
+highr        NA                                                                                                                                             
+hms          "methods"                                                                                                                                      
+htmltools    "utils, digest, Rcpp"                                                                                                                          
+jsonlite     NA                                                                                                                                             
+knitr        "evaluate (>= 0.10), digest, highr, markdown, stringr (>= 0.6),\nyaml, methods, tools"                                                         
+labeling     NA                                                                                                                                             
+lazyeval     NA                                                                                                                                             
+magrittr     NA                                                                                                                                             
+markdown     "mime (>= 0.3)"                                                                                                                                
+memoise      "digest (>= 0.6.3)"                                                                                                                            
+mime         "tools"                                                                                                                                        
+munsell      "colorspace, methods"                                                                                                                          
+openssl      NA                                                                                                                                             
+packrat      "tools, utils"                                                                                                                                 
+PKI          NA                                                                                                                                             
+plyr         "Rcpp (>= 0.11.0)"                                                                                                                             
+R6           NA                                                                                                                                             
+RColorBrewer NA                                                                                                                                             
+Rcpp         "methods, utils"                                                                                                                               
+RCurl        NA                                                                                                                                             
+reshape2     "plyr (>= 1.8.1), stringr, Rcpp"                                                                                                               
+RJSONIO      "methods"                                                                                                                                      
+rmarkdown    "tools, utils, knitr (>= 1.14), yaml (>= 2.1.5), htmltools (>=\n0.3.5), caTools, evaluate (>= 0.8), base64enc, jsonlite,\nrprojroot, methods"  
+rprojroot    "backports"                                                                                                                                    
+rsconnect    "digest, PKI, RCurl, RJSONIO, packrat (>= 0.4.8-1), yaml (>=\n2.1.5), rstudioapi (>= 0.5)"                                                     
+rstudioapi   NA                                                                                                                                             
+scales       "RColorBrewer, dichromat, plyr, munsell (>= 0.2), labeling,\nmethods, Rcpp"                                                                    
+stringi      "tools, utils, stats"                                                                                                                          
+stringr      "stringi (>= 0.4.1), magrittr"                                                                                                                 
+tibble       "methods, assertthat, utils, lazyeval (>= 0.1.10), Rcpp"                                                                                       
+whisker      NA                                                                                                                                             
+withr        "stats, graphics"                                                                                                                              
+yaml         NA                                                                                                                                             
+curl         NA                                                                                                                                             
+devtools     "httr (>= 0.4), utils, tools, methods, memoise (>= 1.0.0),\nwhisker, digest, rstudioapi (>= 0.2.0), jsonlite, stats, git2r\n(>= 0.11.0), withr"
+digest       NA                                                                                                                                             
+git2r        "graphics, utils"                                                                                                                              
+httr         "jsonlite, mime, curl (>= 0.9.1), openssl (>= 0.8), R6"                                                                                        
+jsonlite     NA                                                                                                                                             
+KernSmooth   NA                                                                                                                                             
+memoise      "digest (>= 0.6.3)"                                                                                                                            
+mime         "tools"                                                                                                                                        
+openssl      NA                                                                                                                                             
+R6           NA                                                                                                                                             
+rstudioapi   NA                                                                                                                                             
+whisker      NA                                                                                                                                             
+withr        "stats, graphics"                                                                                                                              
+base         NA                                                                                                                                             
+             LinkingTo
+assertthat   NA       
+backports    NA       
+base64enc    NA       
+BH           NA       
+bitops       NA       
+caTools      NA       
+colorspace   NA       
+dichromat    NA       
+digest       NA       
+evaluate     NA       
+formatR      NA       
+ggplot2      NA       
+git2r        NA       
+gtable       NA       
+highr        NA       
+hms          NA       
+htmltools    "Rcpp"   
+jsonlite     NA       
+knitr        NA       
+labeling     NA       
+lazyeval     NA       
+magrittr     NA       
+markdown     NA       
+memoise      NA       
+mime         NA       
+munsell      NA       
+openssl      NA       
+packrat      NA       
+PKI          NA       
+plyr         "Rcpp"   
+R6           NA       
+RColorBrewer NA       
+Rcpp         NA       
+RCurl        NA       
+reshape2     "Rcpp"   
+RJSONIO      NA       
+rmarkdown    NA       
+rprojroot    NA       
+rsconnect    NA       
+rstudioapi   NA       
+scales       "Rcpp"   
+stringi      NA       
+stringr      NA       
+tibble       "Rcpp"   
+whisker      NA       
+withr        NA       
+yaml         NA       
+curl         NA       
+devtools     NA       
+digest       NA       
+git2r        NA       
+httr         NA       
+jsonlite     NA       
+KernSmooth   NA       
+memoise      NA       
+mime         NA       
+openssl      NA       
+R6           NA       
+rstudioapi   NA       
+whisker      NA       
+withr        NA       
+base         NA       
+             Suggests                                                                                                                                                                                                             
+assertthat   "testthat"                                                                                                                                                                                                           
+backports    NA                                                                                                                                                                                                                   
+base64enc    NA                                                                                                                                                                                                                   
+BH           NA                                                                                                                                                                                                                   
+bitops       NA                                                                                                                                                                                                                   
+caTools      "MASS, rpart"                                                                                                                                                                                                        
+colorspace   "datasets, stats, utils, KernSmooth, MASS, kernlab, mvtnorm,\nvcd, dichromat, tcltk, shiny, shinyjs"                                                                                                                 
+dichromat    NA                                                                                                                                                                                                                   
+digest       "knitr, rmarkdown"                                                                                                                                                                                                   
+evaluate     "testthat, lattice, ggplot2"                                                                                                                                                                                         
+formatR      "codetools, shiny, testit, knitr"                                                                                                                                                                                    
+ggplot2      "covr, ggplot2movies, hexbin, Hmisc, lattice, mapproj, maps,\nmaptools, mgcv, multcomp, nlme, testthat (>= 0.11.0), quantreg,\nknitr, rpart, rmarkdown, svglite"                                                     
+git2r        "getPass"                                                                                                                                                                                                            
+gtable       "testthat, covr"                                                                                                                                                                                                     
+highr        "knitr, testit"                                                                                                                                                                                                      
+hms          "testthat, lubridate"                                                                                                                                                                                                
+htmltools    "markdown, testthat"                                                                                                                                                                                                 
+jsonlite     "httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp"                                                                                                                                                                
+knitr        "formatR, testit, rgl (>= 0.95.1201), codetools, rmarkdown,\nhtmlwidgets (>= 0.7), webshot, tikzDevice (>= 0.10), png, jpeg,\nXML, RCurl, DBI (>= 0.4-1), tibble"                                                    
+labeling     NA                                                                                                                                                                                                                   
+lazyeval     "knitr, rmarkdown (>= 0.2.65), testthat, covr"                                                                                                                                                                       
+magrittr     "testthat, knitr"                                                                                                                                                                                                    
+markdown     "knitr, RCurl"                                                                                                                                                                                                       
+memoise      "testthat"                                                                                                                                                                                                           
+mime         NA                                                                                                                                                                                                                   
+munsell      "ggplot2, testthat"                                                                                                                                                                                                  
+openssl      "testthat, digest, knitr, rmarkdown, jsonlite, jose"                                                                                                                                                                 
+packrat      "testthat (>= 0.7), devtools, httr, knitr, rmarkdown"                                                                                                                                                                
+PKI          NA                                                                                                                                                                                                                   
+plyr         "abind, testthat, tcltk, foreach, doParallel, itertools,\niterators, covr"                                                                                                                                           
+R6           "knitr, microbenchmark, pryr, testthat, ggplot2, scales"                                                                                                                                                             
+RColorBrewer NA                                                                                                                                                                                                                   
+Rcpp         "RUnit, inline, rbenchmark, highlight, pkgKitten (>= 0.1.2)"                                                                                                                                                         
+RCurl        "Rcompression, XML"                                                                                                                                                                                                  
+reshape2     "testthat (>= 0.8.0), lattice"                                                                                                                                                                                       
+RJSONIO      NA                                                                                                                                                                                                                   
+rmarkdown    "shiny (>= 0.11), tufte, testthat, digest, tibble"                                                                                                                                                                   
+rprojroot    "testthat, knitr, withr, rmarkdown"                                                                                                                                                                                  
+rsconnect    "scrypt, knitr, testthat, rmarkdown (>= 1.1)"                                                                                                                                                                        
+rstudioapi   "testthat"                                                                                                                                                                                                           
+scales       "testthat (>= 0.8), covr, hms"                                                                                                                                                                                       
+stringi      NA                                                                                                                                                                                                                   
+stringr      "testthat, knitr, htmltools, htmlwidgets, rmarkdown, covr"                                                                                                                                                           
+tibble       "testthat, withr, knitr (>= 1.5.32), rmarkdown, nycflights13,\nmicrobenchmark"                                                                                                                                       
+whisker      "markdown"                                                                                                                                                                                                           
+withr        "testthat"                                                                                                                                                                                                           
+yaml         "testthat"                                                                                                                                                                                                           
+curl         "testthat (>= 1.0.0), knitr, jsonlite, rmarkdown, magrittr"                                                                                                                                                          
+devtools     "curl (>= 0.9), crayon, testthat (>= 0.7), BiocInstaller, Rcpp\n(>= 0.10.0), MASS, rmarkdown, knitr, hunspell (>= 1.2), lintr\n(>= 0.2.1), bitops, roxygen2 (>= 5.0.0), evaluate, rversions,\ncovr, gmailr (> 0.7.0)"
+digest       "knitr, rmarkdown"                                                                                                                                                                                                   
+git2r        "getPass"                                                                                                                                                                                                            
+httr         "httpuv, jpeg, knitr, png, testthat (>= 0.8.0), readr, xml2,\nrmarkdown"                                                                                                                                             
+jsonlite     "httr, curl, plyr, testthat, knitr, rmarkdown, R.rsp"                                                                                                                                                                
+KernSmooth   "MASS"                                                                                                                                                                                                               
+memoise      "testthat"                                                                                                                                                                                                           
+mime         NA                                                                                                                                                                                                                   
+openssl      "testthat, digest, knitr, rmarkdown, jsonlite, jose"                                                                                                                                                                 
+R6           "knitr, microbenchmark, pryr, testthat, ggplot2, scales"                                                                                                                                                             
+rstudioapi   "testthat"                                                                                                                                                                                                           
+whisker      "markdown"                                                                                                                                                                                                           
+withr        "testthat"                                                                                                                                                                                                           
+base         "methods"                                                                                                                                                                                                            
+             Enhances                               
+assertthat   NA                                     
+backports    NA                                     
+base64enc    "png"                                  
+BH           NA                                     
+bitops       NA                                     
+caTools      NA                                     
+colorspace   NA                                     
+dichromat    NA                                     
+digest       NA                                     
+evaluate     NA                                     
+formatR      NA                                     
+ggplot2      "sp"                                   
+git2r        NA                                     
+gtable       NA                                     
+highr        NA                                     
+hms          NA                                     
+htmltools    "knitr"                                
+jsonlite     NA                                     
+knitr        NA                                     
+labeling     NA                                     
+lazyeval     NA                                     
+magrittr     NA                                     
+markdown     NA                                     
+memoise      NA                                     
+mime         NA                                     
+munsell      NA                                     
+openssl      NA                                     
+packrat      "BiocInstaller"                        
+PKI          "gmp"                                  
+plyr         NA                                     
+R6           NA                                     
+RColorBrewer NA                                     
+Rcpp         NA                                     
+RCurl        NA                                     
+reshape2     NA                                     
+RJSONIO      NA                                     
+rmarkdown    NA                                     
+rprojroot    NA                                     
+rsconnect    "BiocInstaller"                        
+rstudioapi   NA                                     
+scales       NA                                     
+stringi      NA                                     
+stringr      NA                                     
+tibble       NA                                     
+whisker      NA                                     
+withr        NA                                     
+yaml         NA                                     
+curl         NA                                     
+devtools     NA                                     
+digest       NA                                     
+git2r        NA                                     
+httr         NA                                     
+jsonlite     NA                                     
+KernSmooth   NA                                     
+memoise      NA                                     
+mime         NA                                     
+openssl      NA                                     
+R6           NA                                     
+rstudioapi   NA                                     
+whisker      NA                                     
+withr        NA                                     
+base         NA                                     
+             License                         
+assertthat   "GPL-3"                         
+backports    "GPL-2"                         
+base64enc    "GPL-2 | GPL-3"                 
+BH           "BSL-1.0"                       
+bitops       "GPL (>= 2)"                    
+caTools      "GPL-3"                         
+colorspace   "BSD_3_clause + file LICENSE"   
+dichromat    "GPL-2"                         
+digest       "GPL (>= 2)"                    
+evaluate     "MIT + file LICENSE"            
+formatR      "GPL"                           
+ggplot2      "GPL-2 | file LICENSE"          
+git2r        "GPL-2"                         
+gtable       "GPL-2"                         
+highr        "GPL"                           
+hms          "GPL-3"                         
+htmltools    "GPL (>= 2)"                    
+jsonlite     "MIT + file LICENSE"            
+knitr        "GPL"                           
+labeling     "MIT + file LICENSE | Unlimited"
+lazyeval     "GPL-3"                         
+magrittr     "MIT + file LICENSE"            
+markdown     "GPL-2"                         
+memoise      "MIT + file LICENSE"            
+mime         "GPL"                           
+munsell      "MIT + file LICENSE"            
+openssl      "MIT + file LICENSE"            
+packrat      "GPL-2"                         
+PKI          "GPL-2 | GPL-3 | file LICENSE"  
+plyr         "MIT + file LICENSE"            
+R6           "MIT + file LICENSE"            
+RColorBrewer "Apache License 2.0"            
+Rcpp         "GPL (>= 2)"                    
+RCurl        "BSD"                           
+reshape2     "MIT + file LICENSE"            
+RJSONIO      "BSD_3_clause + file LICENSE"   
+rmarkdown    "GPL-3"                         
+rprojroot    "GPL-3"                         
+rsconnect    "GPL-2"                         
+rstudioapi   "MIT + file LICENSE"            
+scales       "MIT + file LICENSE"            
+stringi      "file LICENSE"                  
+stringr      "GPL-2"                         
+tibble       "MIT + file LICENSE"            
+whisker      "GPL-3"                         
+withr        "GPL (>= 2)"                    
+yaml         "BSD_3_clause + file LICENSE"   
+curl         "MIT + file LICENSE"            
+devtools     "GPL (>= 2)"                    
+digest       "GPL (>= 2)"                    
+git2r        "GPL-2"                         
+httr         "MIT + file LICENSE"            
+jsonlite     "MIT + file LICENSE"            
+KernSmooth   "Unlimited"                     
+memoise      "MIT + file LICENSE"            
+mime         "GPL"                           
+openssl      "MIT + file LICENSE"            
+R6           "MIT + file LICENSE"            
+rstudioapi   "MIT + file LICENSE"            
+whisker      "GPL-3"                         
+withr        "GPL (>= 2)"                    
+base         "Part of R 3.2.3"               
+             License_is_FOSS
+assertthat   NA             
+backports    NA             
+base64enc    NA             
+BH           NA             
+bitops       NA             
+caTools      NA             
+colorspace   NA             
+dichromat    NA             
+digest       NA             
+evaluate     NA             
+formatR      NA             
+ggplot2      NA             
+git2r        NA             
+gtable       NA             
+highr        NA             
+hms          NA             
+htmltools    NA             
+jsonlite     NA             
+knitr        NA             
+labeling     NA             
+lazyeval     NA             
+magrittr     NA             
+markdown     NA             
+memoise      NA             
+mime         NA             
+munsell      NA             
+openssl      NA             
+packrat      NA             
+PKI          NA             
+plyr         NA             
+R6           NA             
+RColorBrewer NA             
+Rcpp         NA             
+RCurl        NA             
+reshape2     NA             
+RJSONIO      NA             
+rmarkdown    NA             
+rprojroot    NA             
+rsconnect    NA             
+rstudioapi   NA             
+scales       NA             
+stringi      "yes"          
+stringr      NA             
+tibble       NA             
+whisker      NA             
+withr        NA             
+yaml         NA             
+curl         NA             
+devtools     NA             
+digest       NA             
+git2r        NA             
+httr         NA             
+jsonlite     NA             
+KernSmooth   NA             
+memoise      NA             
+mime         NA             
+openssl      NA             
+R6           NA             
+rstudioapi   NA             
+whisker      NA             
+withr        NA             
+base         NA             
+             License_restricts_use OS_type
+assertthat   NA                    NA     
+backports    NA                    NA     
+base64enc    NA                    NA     
+BH           NA                    NA     
+bitops       NA                    NA     
+caTools      NA                    NA     
+colorspace   NA                    NA     
+dichromat    NA                    NA     
+digest       NA                    NA     
+evaluate     NA                    NA     
+formatR      NA                    NA     
+ggplot2      NA                    NA     
+git2r        NA                    NA     
+gtable       NA                    NA     
+highr        NA                    NA     
+hms          NA                    NA     
+htmltools    NA                    NA     
+jsonlite     NA                    NA     
+knitr        NA                    NA     
+labeling     NA                    NA     
+lazyeval     NA                    NA     
+magrittr     NA                    NA     
+markdown     NA                    NA     
+memoise      NA                    NA     
+mime         NA                    NA     
+munsell      NA                    NA     
+openssl      NA                    NA     
+packrat      NA                    NA     
+PKI          NA                    NA     
+plyr         NA                    NA     
+R6           NA                    NA     
+RColorBrewer NA                    NA     
+Rcpp         NA                    NA     
+RCurl        NA                    NA     
+reshape2     NA                    NA     
+RJSONIO      NA                    NA     
+rmarkdown    NA                    NA     
+rprojroot    NA                    NA     
+rsconnect    NA                    NA     
+rstudioapi   NA                    NA     
+scales       NA                    NA     
+stringi      NA                    NA     
+stringr      NA                    NA     
+tibble       NA                    NA     
+whisker      NA                    NA     
+withr        NA                    NA     
+yaml         NA                    NA     
+curl         NA                    NA     
+devtools     NA                    NA     
+digest       NA                    NA     
+git2r        NA                    NA     
+httr         NA                    NA     
+jsonlite     NA                    NA     
+KernSmooth   NA                    NA     
+memoise      NA                    NA     
+mime         NA                    NA     
+openssl      NA                    NA     
+R6           NA                    NA     
+rstudioapi   NA                    NA     
+whisker      NA                    NA     
+withr        NA                    NA     
+base         NA                    NA     
+             MD5sum NeedsCompilation
+assertthat   NA     "no"            
+backports    NA     "no"            
+base64enc    NA     "yes"           
+BH           NA     "no"            
+bitops       NA     "yes"           
+caTools      NA     "yes"           
+colorspace   NA     "yes"           
+dichromat    NA     NA              
+digest       NA     "yes"           
+evaluate     NA     "no"            
+formatR      NA     "no"            
+ggplot2      NA     "no"            
+git2r        NA     "yes"           
+gtable       NA     "no"            
+highr        NA     "no"            
+hms          NA     "no"            
+htmltools    NA     "yes"           
+jsonlite     NA     "yes"           
+knitr        NA     "no"            
+labeling     NA     "no"            
+lazyeval     NA     "yes"           
+magrittr     NA     "no"            
+markdown     NA     "yes"           
+memoise      NA     "no"            
+mime         NA     "yes"           
+munsell      NA     "no"            
+openssl      NA     "yes"           
+packrat      NA     "no"            
+PKI          NA     "yes"           
+plyr         NA     "yes"           
+R6           NA     "no"            
+RColorBrewer NA     "no"            
+Rcpp         NA     "yes"           
+RCurl        NA     "yes"           
+reshape2     NA     "yes"           
+RJSONIO      NA     "yes"           
+rmarkdown    NA     "no"            
+rprojroot    NA     "no"            
+rsconnect    NA     "no"            
+rstudioapi   NA     "no"            
+scales       NA     "yes"           
+stringi      NA     "yes"           
+stringr      NA     "no"            
+tibble       NA     "yes"           
+whisker      NA     "no"            
+withr        NA     "no"            
+yaml         NA     "yes"           
+curl         NA     "yes"           
+devtools     NA     "yes"           
+digest       NA     "yes"           
+git2r        NA     "yes"           
+httr         NA     "no"            
+jsonlite     NA     "yes"           
+KernSmooth   NA     "yes"           
+memoise      NA     "no"            
+mime         NA     "yes"           
+openssl      NA     "yes"           
+R6           NA     "no"            
+rstudioapi   NA     "no"            
+whisker      NA     "no"            
+withr        NA     "no"            
+base         NA     NA              
+             Built  
+assertthat   "3.2.3"
+backports    "3.2.3"
+base64enc    "3.2.3"
+BH           "3.2.3"
+bitops       "3.2.3"
+caTools      "3.2.3"
+colorspace   "3.2.3"
+dichromat    "3.2.3"
+digest       "3.2.3"
+evaluate     "3.2.3"
+formatR      "3.2.3"
+ggplot2      "3.2.3"
+git2r        "3.2.3"
+gtable       "3.2.3"
+highr        "3.2.3"
+hms          "3.2.3"
+htmltools    "3.2.3"
+jsonlite     "3.2.3"
+knitr        "3.2.3"
+labeling     "3.2.3"
+lazyeval     "3.2.3"
+magrittr     "3.2.3"
+markdown     "3.2.3"
+memoise      "3.2.3"
+mime         "3.2.3"
+munsell      "3.2.3"
+openssl      "3.2.3"
+packrat      "3.2.3"
+PKI          "3.2.3"
+plyr         "3.2.3"
+R6           "3.2.3"
+RColorBrewer "3.2.3"
+Rcpp         "3.2.3"
+RCurl        "3.2.3"
+reshape2     "3.2.3"
+RJSONIO      "3.2.3"
+rmarkdown    "3.2.3"
+rprojroot    "3.2.3"
+rsconnect    "3.2.3"
+rstudioapi   "3.2.3"
+scales       "3.2.3"
+stringi      "3.2.3"
+stringr      "3.2.3"
+tibble       "3.2.3"
+whisker      "3.2.3"
+withr        "3.2.3"
+yaml         "3.2.3"
+curl         "3.2.3"
+devtools     "3.2.3"
+digest       "3.2.3"
+git2r        "3.2.3"
+httr         "3.2.3"
+jsonlite     "3.2.3"
+KernSmooth   "3.2.3"
+memoise      "3.2.3"
+mime         "3.2.3"
+openssl      "3.2.3"
+R6           "3.2.3"
+rstudioapi   "3.2.3"
+whisker      "3.2.3"
+withr        "3.2.3"
+base         "3.2.3"
+ [ reached getOption("max.print") -- omitted 28 rows ]
+stringr :
+ Version 1.1.0 installed in /home/fimplus/R/x86_64-pc-linux-gnu-library/3.2 
+ Version 1.2.0 available at https://cran.rstudio.com
+boot :
+ Version 1.3-17 installed in /usr/lib/R/library 
+ Version 1.3-18 available at https://cran.rstudio.com
+cluster :
+ Version 2.0.3 installed in /usr/lib/R/library 
+ Version 2.0.5 available at https://cran.rstudio.com
+codetools :
+ Version 0.2-14 installed in /usr/lib/R/library 
+ Version 0.2-15 available at https://cran.rstudio.com
+foreign :
+ Version 0.8-66 installed in /usr/lib/R/library 
+ Version 0.8-67 available at https://cran.rstudio.com
+lattice :
+ Version 0.20-33 installed in /usr/lib/R/library 
+ Version 0.20-34 available at https://cran.rstudio.com
+Matrix :
+ Version 1.2-3 installed in /usr/lib/R/library 
+ Version 1.2-8 available at https://cran.rstudio.com
+mgcv :
+ Version 1.8-11 installed in /usr/lib/R/library 
+ Version 1.8-17 available at https://cran.rstudio.com
+nlme :
+ Version 3.1-124 installed in /usr/lib/R/library 
+ Version 3.1-131 available at https://cran.rstudio.com
+survival :
+ Version 2.38-3 installed in /usr/lib/R/library 
+ Version 2.40-1 available at https://cran.rstudio.com
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm1dapw/downloaded_packages’
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm1dapw/downloaded_packages’
+
+Call:
+lm(formula = mpg ~ wt, data = mtcars)
+
+Coefficients:
+(Intercept)           wt  
+     37.285       -5.344  
+
+
+Call:
+lm(formula = mpg ~ wt, data = mtcars)
+
+Coefficients:
+(Intercept)           wt  
+     37.285       -5.344  
+
+RStudioGD 
+        2 
+
+Call:
+lm(formula = mpg ~ wt, data = mtcars)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-4.5432 -2.3647 -0.1252  1.4096  6.8727 
+
+Coefficients:
+            Estimate Std. Error t value
+(Intercept)  37.2851     1.8776  19.858
+wt           -5.3445     0.5591  -9.559
+            Pr(>|t|)    
+(Intercept)  < 2e-16 ***
+wt          1.29e-10 ***
+---
+Signif. codes:  
+  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’
+  0.1 ‘ ’ 1
+
+Residual standard error: 3.046 on 30 degrees of freedom
+Multiple R-squared:  0.7528,	Adjusted R-squared:  0.7446 
+F-statistic: 91.38 on 1 and 30 DF,  p-value: 1.294e-10
+
+
+The downloaded source packages are in
+	‘/tmp/Rtmpm1dapw/downloaded_packages’
+   ID Treatment    Sex Age Improved
+1  57   Treated   Male  27     Some
+2  46   Treated   Male  29     None
+3  77   Treated   Male  30     None
+4  17   Treated   Male  32   Marked
+5  36   Treated   Male  46   Marked
+6  23   Treated   Male  58   Marked
+7  75   Treated   Male  59     None
+8  39   Treated   Male  59   Marked
+9  33   Treated   Male  63     None
+10 55   Treated   Male  63     None
+11 30   Treated   Male  64     None
+12  5   Treated   Male  64     Some
+13 63   Treated   Male  69     None
+14 83   Treated   Male  70   Marked
+15 66   Treated Female  23     None
+16 40   Treated Female  32     None
+17  6   Treated Female  37     Some
+18  7   Treated Female  41     None
+19 72   Treated Female  41   Marked
+20 37   Treated Female  48     None
+21 82   Treated Female  48   Marked
+22 53   Treated Female  55   Marked
+23 79   Treated Female  55   Marked
+24 26   Treated Female  56   Marked
+25 28   Treated Female  57   Marked
+26 60   Treated Female  57   Marked
+27 22   Treated Female  57   Marked
+28 27   Treated Female  58     None
+29  2   Treated Female  59   Marked
+30 59   Treated Female  59   Marked
+31 62   Treated Female  60   Marked
+32 84   Treated Female  61   Marked
+33 64   Treated Female  62     Some
+34 34   Treated Female  62   Marked
+35 58   Treated Female  66   Marked
+36 13   Treated Female  67   Marked
+37 61   Treated Female  68     Some
+38 65   Treated Female  68   Marked
+39 11   Treated Female  69     None
+40 56   Treated Female  69     Some
+41 43   Treated Female  70     Some
+42  9   Placebo   Male  37     None
+43 14   Placebo   Male  44     None
+44 73   Placebo   Male  50     None
+45 74   Placebo   Male  51     None
+46 25   Placebo   Male  52     None
+47 18   Placebo   Male  53     None
+48 21   Placebo   Male  59     None
+49 52   Placebo   Male  59     None
+50 45   Placebo   Male  62     None
+51 41   Placebo   Male  62     None
+52  8   Placebo   Male  63   Marked
+53 80   Placebo Female  23     None
+54 12   Placebo Female  30     None
+55 29   Placebo Female  30     None
+56 50   Placebo Female  31     Some
+57 38   Placebo Female  32     None
+58 35   Placebo Female  33   Marked
+59 51   Placebo Female  37     None
+60 54   Placebo Female  44     None
+61 76   Placebo Female  45     None
+62 16   Placebo Female  46     None
+63 69   Placebo Female  48     None
+64 31   Placebo Female  49     None
+65 20   Placebo Female  51     None
+66 68   Placebo Female  53     None
+67 81   Placebo Female  54     None
+68  4   Placebo Female  54     None
+69 78   Placebo Female  54   Marked
+70 70   Placebo Female  55   Marked
+71 49   Placebo Female  57     None
+72 10   Placebo Female  57     Some
+73 47   Placebo Female  58     Some
+74 44   Placebo Female  59     Some
+75 24   Placebo Female  59   Marked
+76 48   Placebo Female  61     None
+77 19   Placebo Female  63     Some
+78  3   Placebo Female  64     None
+79 67   Placebo Female  65   Marked
+80 32   Placebo Female  66     None
+81 42   Placebo Female  66     None
+82 15   Placebo Female  66     Some
+83 71   Placebo Female  68     Some
+84  1   Placebo Female  74   Marked
+
+Arthrt> data("Arthritis")
+
+Arthrt> art <- xtabs(~ Treatment + Improved, data = Arthritis, subset = Sex == "Female")
+
+Arthrt> art
+         Improved
+Treatment None Some Marked
+  Placebo   19    7      6
+  Treated    6    5     16
+
+Arthrt> mosaic(art, gp = shading_Friendly)
+
+Arthrt> mosaic(art, gp = shading_max)
+  patientId....c.1..2..3..4.
+1                          1
+2                          2
+3                          3
+4                          4
+  age....c.25..34..28..52.
+1                       25
+2                       34
+3                       28
+4                       52
+  diabetes....c..Type1....Type2....Type1....Type1..
+1                                             Type1
+2                                             Type2
+3                                             Type1
+4                                             Type1
+  status....c..Poor....Improved....Excellent....Poor..
+1                                                 Poor
+2                                             Improved
+3                                            Excellent
+4                                                 Poor
+  patientId age diabetes    status
+1         1  25    Type1      Poor
+2         2  34    Type2  Improved
+3         3  28    Type1 Excellent
+4         4  52    Type1      Poor
+  patientId age diabetes status
+1         1  25     <NA>   <NA>
+2         2  34     <NA>   <NA>
+3         3  28     <NA>   <NA>
+4         4  52     <NA>   <NA>
+
+factor> (ff <- factor(substring("statistics", 1:10, 1:10), levels = letters))
+ [1] s t a t i s t i c s
+Levels: a b c d e f g h i j k l m n o p q r s t u v w x y z
+
+factor> as.integer(ff)      # the internal codes
+ [1] 19 20  1 20  9 19 20  9  3 19
+
+factor> (f. <- factor(ff))  # drops the levels that do not occur
+ [1] s t a t i s t i c s
+Levels: a c i s t
+
+factor> ff[, drop = TRUE]   # the same, more transparently
+ [1] s t a t i s t i c s
+Levels: a c i s t
+
+factor> factor(letters[1:20], labels = "letter")
+ [1] letter1  letter2  letter3  letter4  letter5  letter6  letter7  letter8  letter9 
+[10] letter10 letter11 letter12 letter13 letter14 letter15 letter16 letter17 letter18
+[19] letter19 letter20
+20 Levels: letter1 letter2 letter3 letter4 letter5 letter6 letter7 letter8 ... letter20
+
+factor> class(ordered(4:1)) # "ordered", inheriting from "factor"
+[1] "ordered" "factor" 
+
+factor> z <- factor(LETTERS[3:1], ordered = TRUE)
+
+factor> ## and "relational" methods work:
+factor> stopifnot(sort(z)[c(1,3)] == range(z), min(z) < max(z))
+
+factor> ## Don't show: 
+factor> of <- ordered(ff)
+
+factor> stopifnot(identical(range(of, rev(of)), of[3:2]),
+factor+ 	  identical(max(of), of[2]))
+
+factor> ## End(Don't show)
+factor> 
+factor> ## suppose you want "NA" as a level, and to allow missing values.
+factor> (x <- factor(c(1, 2, NA), exclude = NULL))
+[1] 1    2    <NA>
+Levels: 1 2 <NA>
+
+factor> is.na(x)[2] <- TRUE
+
+factor> x  # [1] 1    <NA> <NA>
+[1] 1    <NA> <NA>
+Levels: 1 2 <NA>
+
+factor> is.na(x)
+[1] FALSE  TRUE FALSE
+
+factor> # [1] FALSE  TRUE FALSE
+factor> 
+factor> ## Using addNA()
+factor> Month <- airquality$Month
+
+factor> table(addNA(Month))
+
+   5    6    7    8    9 <NA> 
+  31   30   31   31   30    0 
+
+factor> table(addNA(Month, ifany = TRUE))
+
+ 5  6  7  8  9 
+31 30 31 31 30 
+  patientId age diabetes status
+1         1  25     <NA>   <NA>
+2         2  34     <NA>   <NA>
+3         3  28     <NA>   <NA>
+4         4  52     <NA>   <NA>
+  patientId age diabetes    status
+1         1  25    Type1      Poor
+2         2  34    Type2  Improved
+3         3  28    Type1 Excellent
+4         4  52    Type1      Poor
+[1] 1 2 3 4
+[1] Type1 Type2 Type1 Type1
+Levels: Type1 Type2
+[1] "factor"
+[1] Poor      Improved  Excellent Poor     
+Levels: Excellent Improved Poor
+  age
+1  25
+2  34
+3  28
+4  52
+  diabetes
+1    Type1
+2    Type2
+3    Type1
+4    Type1
+data frame with 0 columns and 4 rows
+  age
+1  25
+2  34
+3  28
+4  52
+[1] "data.frame"
+[1] 2
+[1] Type2
+Levels: Type1 Type2
+[1] 34
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+   1.00    1.75    2.50    2.50    3.25    4.00 
+NULL
+NULL
+Type1 Type2 
+    3     1 
+   Length     Class      Mode 
+        4 character character 
+[1] 1 2 3 4
+[1] "Type 1" "Type 2" "Type 1" "Type 1"
+[1] "Poor"      "Improved"  "Excellent" "Poor"     
+[1] "character"
+[1] "character"
+[1] Type 1 Type 2 Type 1 Type 1
+Levels: Type 1 Type 2
+[1] Poor      Improved  Excellent Poor     
+Levels: Excellent Improved Poor
+  patientId age diabetes    status
+1         1  23   Type 1      Poor
+2         2  45   Type 2  Improved
+3         3  21   Type 1 Excellent
+4         4  64   Type 1      Poor
+[1] Excellent Poor      Improved  Poor      Excellent Poor      Improved 
+Levels: Poor < Improved < Excellent
+'data.frame':	4 obs. of  4 variables:
+ $ patientId: num  1 2 3 4
+ $ age      : num  23 45 21 64
+ $ diabetes : Factor w/ 2 levels "Type 1","Type 2": 1 2 1 1
+ $ status   : Factor w/ 3 levels "Excellent","Improved",..: 3 2 1 3
+   patientId         age          diabetes       status 
+ Min.   :1.00   Min.   :21.00   Type 1:3   Excellent:1  
+ 1st Qu.:1.75   1st Qu.:22.50   Type 2:1   Improved :1  
+ Median :2.50   Median :34.00              Poor     :2  
+ Mean   :2.50   Mean   :38.25                           
+ 3rd Qu.:3.25   3rd Qu.:49.75                           
+ Max.   :4.00   Max.   :64.00                           
+$a
+[1] 1 3 5
+
+$b
+[1] "Test"
+
+$c
+[1] TRUE
+
+List of 3
+ $ a: num [1:3] 1 3 5
+ $ b: chr "Test"
+ $ c: logi TRUE
+[1] 1 3 5
+$a
+[1] 1 3 5
+
+[1] 1 3 5
+[1] 21 28 35 49
+[1]  6 36 20 49
+[1] 1.098612 1.386294 1.609438 1.945910
+[1]  1  5  9 13 17
+[1]  1  5  9 13 17 21
+[1]  1.000000  7.666667 14.333333 21.000000
+[1]  1  6 11 16 21
+[1]  1  5  9 13 17 21
+$a
+[1] 5
+
+$c
+[1] 7
+
+$a
+[1] 5
+
+$c
+[1] 7
+
+$b
+[1] 20
+
+List of 3
+ $ a: num 5
+ $ c: num 7
+ $ b: num 20
+R version 3.2.3 (2015-12-10)
+Platform: x86_64-pc-linux-gnu (64-bit)
+Running under: Ubuntu 16.04.2 LTS
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8    LC_NUMERIC=C            LC_TIME=vi_VN          
+ [4] LC_COLLATE=en_US.UTF-8  LC_MONETARY=vi_VN       LC_MESSAGES=en_US.UTF-8
+ [7] LC_PAPER=vi_VN          LC_NAME=C               LC_ADDRESS=C           
+[10] LC_TELEPHONE=C          LC_MEASUREMENT=vi_VN    LC_IDENTIFICATION=C    
+
+attached base packages:
+[1] grid      stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] vcd_1.4-3     ggplot2_2.2.1
+
+loaded via a namespace (and not attached):
+ [1] zoo_1.7-14       MASS_7.3-45      colorspace_1.3-2 scales_0.4.1     assertthat_0.1  
+ [6] lazyeval_0.2.0   plyr_1.8.4       tools_3.2.3      gtable_0.2.0     tibble_1.2      
+[11] Rcpp_0.12.9      lmtest_0.9-35    munsell_0.4.3    lattice_0.20-34 
+ [1] "age"         "art"         "Arthritis"   "diabetes"    "f."          "ff"         
+ [7] "l"           "Month"       "of"          "patientData" "patientId"   "plotData"   
+[13] "status"      "x"           "z"          
+No documentation for ‘read.tabl’ in specified packages and libraries:
+you could try ‘??read.tabl’
+  id  name
+1  1 Henry
+2  2 Peter
+3  3  Jack
+structure(list(id = c(1, 2, 3), name = structure(c(1L, 3L, 2L
+), .Label = c("Henry", "Jack", "Peter"), class = "factor")), .Names = c("id", 
+"name"), row.names = c(NA, -3L), class = "data.frame")
+structure(list(id = c(1, 2, 3), name = structure(c(1L, 3L, 2L
+), .Label = c("Henry", "Jack", "Peter"), class = "factor")), .Names = c("id", 
+"name"), row.names = c(NA, -3L), class = "data.frame")
+  id  name
+1  1 Henry
+2  2 Peter
+3  3  Jack
+[[1]]
+[1] "men"
+
+[[2]]
+[1] 3
+
+[[3]]
+[1] TRUE
+
+  id  name
+1  1 Henry
+2  2 Peter
+3  3  Jack
+  id  name
+1  1 Henry
+2  2 Peter
+3  3  Jack
+Classes 'file', 'connection'  atomic [1:1] 4
+  ..- attr(*, "conn_id")=<externalptr> 
+          description 
+"~/Tests/content.txt" 
+                class 
+               "file" 
+                 mode 
+                  "r" 
+                 text 
+               "text" 
+               opened 
+             "closed" 
+             can read 
+                "yes" 
+            can write 
+                "yes" 
+ [1] ""                                                                  
+ [2] ""                                                                  
+ [3] "Ask or Search Quora"                                               
+ [4] "Ask Question"                                                      
+ [5] "Read"                                                              
+ [6] "1"                                                                 
+ [7] "Answer"                                                            
+ [8] "Notifications"                                                     
+ [9] "Hiền CB"                                                           
+[10] "Hiền"                                                              
+[11] "Learning to Program Website Recommendations"                       
+[12] "Resources"                                                         
+[13] "+12"                                                               
+[14] "What are the best machine learning blogs or resources available?"  
+[15] "Looking for some regularly updated and high quality content blogs."
+[16] "Answer"                                                            
+[17] "Request"                                                           
+[18] "Follow965"                                                         
+[19] "Comments3+"                                                        
+[20] "Share6Downvote"                                                    
+  [1] "<html><head><title>Regular Expressions in grep</title></head><body background=\"background.gif\">"             
+  [2] "<a href=\"http://www.robelle.com/\"><img alt=\"[Robelle]\" src=\"robelle.gif\"></a>"                           
+  [3] "<a href=\"welcome.html\"><img alt=\"[SmugBook]\" src=\"smug.gif\"></a>"                                        
+  [4] "<a href=\"index.html\"><img alt=\"[Index]\" src=\"index.gif\"></a>"                                            
+  [5] "<a href=\"manpages.html\"><img alt=\"[Prev]\" src=\"up.gif\"></a>"                                             
+  [6] "<a href=\"whence.html\"><img alt=\"[Next]\" src=\"down.gif\"></a>"                                             
+  [7] ""                                                                                                              
+  [8] "<h3>Searching Files on UNIX</h3>"                                                                              
+  [9] ""                                                                                                              
+ [10] "On <a href=\"mpe.html\">MPE</a> you can display files"                                                         
+ [11] "using the :Print command, Fcopy, <a href=\"nuggets.html#magnet\">Magnet</a>,"                                  
+ [12] "or <a href=\"qedit.html\">Qedit</a> (with pattern"                                                             
+ [13] "match searches). On <a href=\"hp-ux.html\">HP-UX</a>"                                                          
+ [14] "you can display files using <b>cat</b> and even better using"                                                  
+ [15] "<b>more</b> (and string search using the slash \"/\" command), and"                                            
+ [16] "<a href=\"qedit.html\">Qedit</a> (including searches of $Include files, and so on),"                           
+ [17] "but if you really want to search for patterns of text"                                                         
+ [18] "like a UNIX guru, <a href=\"#grep\">grep</a> is the tool for you."                                             
+ [19] "<p>"                                                                                                           
+ [20] "<a href=\"regexpr1.txt\">Text version.</a>"                                                                    
+ [21] "<p>"                                                                                                           
+ [22] "<table border>"                                                                                                
+ [23] "<tr>"                                                                                                          
+ [24] "<td>cat report.c<td>{prints file on stdout, no pauses}"                                                        
+ [25] "<tr>"                                                                                                          
+ [26] "<td>cat -v -e -t dump<td>{show non-printing characters too}"                                                   
+ [27] "<tr>"                                                                                                          
+ [28] "<td>cat &gt;newfile<td>{reads from stdin, writes to 'newfile'}"                                                
+ [29] "<tr>"                                                                                                          
+ [30] "<td>cat rpt1.c inp.c test.s &gt;newfile<td>{combine 3 files into 1}"                                           
+ [31] "<tr>"                                                                                                          
+ [32] "<td>more report.c<td>{space for next page, q to quit}"                                                         
+ [33] "<tr>"                                                                                                          
+ [34] "<td>ps -a | more<td>{page through the full output of ps}"                                                      
+ [35] "<tr>"                                                                                                          
+ [36] "<td>grep smug *.txt<td>{search *.txt files for 'smug'}</td></tr>"                                              
+ [37] "</table>"                                                                                                      
+ [38] "<p>"                                                                                                           
+ [39] "MPE users will take a while to remember that"                                                                  
+ [40] "<b>more</b>, like most UNIX tools,"                                                                            
+ [41] "responds to a Return by printing the next line,"                                                               
+ [42] "not the next screen. Use the Spacebar to print the next"                                                       
+ [43] "page.  Type \"q\" to quit."                                                                                    
+ [44] "To scan ahead to find a string pattern, type \"/\" and enter"                                                  
+ [45] "a <a href=\"#expression\">regular expression</a> to match."                                                    
+ [46] "For further help, type \"h\"."                                                                                 
+ [47] ""                                                                                                              
+ [48] "<a name=\"grep\"><h4>Searching Files Using UNIX grep</h4></a>"                                                 
+ [49] ""                                                                                                              
+ [50] "The <b>grep</b> program is a standard"                                                                         
+ [51] "<A HREF=\"unix.html\">UNIX</A>"                                                                                
+ [52] "utility that searches through a set of files for an arbitrary text"                                            
+ [53] "pattern, specified through a"                                                                                  
+ [54] "<a href=\"#expression\">regular expression.</a>"                                                               
+ [55] "Also check the <a href=\"manpages.html\">man pages as well</a>"                                                
+ [56] "for <STRONG>egrep</STRONG> and <STRONG>fgrep</STRONG>. The"                                                    
+ [57] "<A HREF=\"mpe.html\">MPE</A>"                                                                                  
+ [58] "equivalents are"                                                                                               
+ [59] "<b>MPEX</b>"                                                                                                   
+ [60] "and"                                                                                                           
+ [61] "<A HREF=\"nuggets.html#magnet\">Magnet</A>, both third-party products."                                        
+ [62] "By default, grep is case-sensitive (use -i to ignore case)."                                                   
+ [63] "By default, grep ignores the context of a string (use -w to"                                                   
+ [64] "match <i>words</i> only)."                                                                                     
+ [65] "By default, grep shows the lines that match (use -v to show"                                                   
+ [66] "those that <b>don't</b> match)."                                                                               
+ [67] "<p>"                                                                                                           
+ [68] "<a href=\"regexpr2.txt\">Text version.</a>"                                                                    
+ [69] "<P>"                                                                                                           
+ [70] "<table border>"                                                                                                
+ [71] "<tr>"                                                                                                          
+ [72] "<td> % grep BOB tmpfile<td>{search 'tmpfile' for 'BOB' anywhere in a line}"                                    
+ [73] "<tr>"                                                                                                          
+ [74] "<td> % grep -i -w blkptr * <td>{search files in <a href=\"cwd.html\">CWD</a> for word <i>blkptr</i>, any case}"
+ [75] "<tr>"                                                                                                          
+ [76] "<td> % grep run[- ]time *.txt<td>{find 'run time' or 'run-time' in all txt files}"                             
+ [77] "<tr>"                                                                                                          
+ [78] "<td> % who | grep root <td>{pipe <b>who</b> to <b>grep</b>, look for <i>root</i>}</td></tr>"                   
+ [79] "</table>"                                                                                                      
+ [80] "<p>"                                                                                                           
+ [81] "<a name=\"expression\"><h4>Understanding Regular Expressions</h4></a>"                                         
+ [82] ""                                                                                                              
+ [83] "<b>Regular Expressions</b> are a feature of <a href=\"unix.html\">UNIX</a>."                                   
+ [84] "They describe a pattern to match, a sequence of characters,"                                                   
+ [85] "not words, within a line of text."                                                                             
+ [86] "Here is a quick summary of the special characters used"                                                        
+ [87] "in the <a href=\"#grep\">grep</a> tool and their meaning:"                                                     
+ [88] "<p>"                                                                                                           
+ [89] "<a href=\"regexpr3.txt\">Text version.</a>"                                                                    
+ [90] "<p>"                                                                                                           
+ [91] "<table border>"                                                                                                
+ [92] "<tr>"                                                                                                          
+ [93] "<td>^ (Caret)<td>=<td>match expression at the start of a line, as in ^A."                                      
+ [94] "<tr>"                                                                                                          
+ [95] "<td>$ (Question)<td>=<td>match expression at the end of a line, as in A$."                                     
+ [96] "<tr>"                                                                                                          
+ [97] "<td>\\ (Back Slash)<td>=<td>turn off the special meaning of the next character, as in \\^."                    
+ [98] "<tr>"                                                                                                          
+ [99] "<td>[ ] (Brackets)<td>=<td>match any <b>one</b> of the enclosed characters, as in [aeiou]."                    
+[100] "Use Hyphen \"-\" for a range, as in <code>[0-9]</code>."                                                       
+[101] "<tr>"                                                                                                          
+[102] "<td>[^ ]<td>=<td>match any one character <b>except</b> those enclosed in [ ], as in [^0-9]."                   
+[103] "<tr>"                                                                                                          
+[104] "<td>. (Period)<td>=<td>match a single character of any value, except end of line."                             
+[105] "<tr>"                                                                                                          
+[106] "<td>* (Asterisk)<td>=<td>match zero or more of the preceding character or expression."                         
+[107] "<tr>"                                                                                                          
+[108] "<td>\\{x,y\\}<td>=<td>match <b>x</b> to <b>y</b> occurrences of the preceding."                                
+[109] "<tr>"                                                                                                          
+[110] "<td>\\{x\\}<td>=<td>match exactly <b>x</b> occurrences of the preceding."                                      
+[111] "<tr>"                                                                                                          
+[112] "<td>\\{x,\\}<td>=<td>match <b>x</b> or more occurrences of the preceding.</td></tr>"                           
+[113] "</table>"                                                                                                      
+[114] "<p>"                                                                                                           
+[115] "As an <a href=\"mpe.html\">MPE</a> user, you may"                                                              
+[116] "find regular expressions difficult to use at first."                                                           
+[117] "Please persevere, because they are used in many"                                                               
+[118] "UNIX tools, from <b>more</b> to <b>perl</b>."                                                                  
+[119] "Unfortunately, some tools use simple regular expressions and others use extended"                              
+[120] "regular expressions and some extended features have been merged"                                               
+[121] "into simple tools, so that it looks as if every tool has its own"                                              
+[122] "syntax. Not only that, regular expressions use the"                                                            
+[123] "same characters as shell <a href=\"wildcard.html\">wildcarding</a>,"                                           
+[124] "but they are <b>not</b> used in exactly the same way."                                                         
+[125] "What do you expect of an operating system built by graduate students?"                                         
+[126] "<p>"                                                                                                           
+[127] "Since you usually type regular expressions within"                                                             
+[128] "shell commands, it is good practice to enclose the regular"                                                    
+[129] "expression in single quotes (') to stop the shell from expanding"                                              
+[130] "it before passing the argument to your search tool."                                                           
+[131] "Here are some examples using <b>grep</b>:"                                                                     
+[132] "<p>"                                                                                                           
+[133] "<a href=\"regexpr4.txt\">Text version.</a>"                                                                    
+[134] "<p>"                                                                                                           
+[135] "<table border>"                                                                                                
+[136] "<tr>"                                                                                                          
+[137] "<td>grep smug files<td>{search <i>files</i> for lines with 'smug'}"                                            
+[138] "<tr>"                                                                                                          
+[139] "<td>grep '^smug' files<td>{'smug' at the start of a line}"                                                     
+[140] "<tr>"                                                                                                          
+[141] "<td>grep 'smug$' files<td>{'smug' at the end of a line}"                                                       
+[142] "<tr>"                                                                                                          
+[143] "<td>grep '^smug$' files<td>{lines containing only 'smug'}"                                                     
+[144] "<tr>"                                                                                                          
+[145] "<td>grep '^\\^s' files<td>{lines starting with '^s', \"\\\" escapes the ^}"                                    
+[146] "<tr>"                                                                                                          
+[147] "<td>grep '[Ss]mug' files<td>{search for 'Smug' or 'smug'}"                                                     
+[148] "<tr>"                                                                                                          
+[149] "<td>grep 'B[oO][bB]' files<td>{search for BOB, Bob, BOb or BoB }"                                              
+[150] "<tr>"                                                                                                          
+[151] "<td>grep '^$' files<td>{search for blank lines}"                                                               
+[152] "<tr>"                                                                                                          
+[153] "<td>grep '[0-9][0-9]' file<td>{search for pairs of numeric digits}</td></tr>"                                  
+[154] "</table>"                                                                                                      
+[155] "<p>"                                                                                                           
+[156] "<b>Back Slash</b> \"\\\" is used to <i>escape</i> the next"                                                    
+[157] "symbol, for example, turn off the special meaning that it has."                                                
+[158] "To look for a Caret \"^\" at the start of a line, the"                                                         
+[159] "expression is <code>^\\^</code>."                                                                              
+[160] "<b>Period</b> \".\" matches any single character. So <code>b.b</code> will"                                    
+[161] "match \"bob\", \"bib\", \"b-b\", etc."                                                                         
+[162] "<b>Asterisk</b> \"*\" does not mean the same thing in regular expressions"                                     
+[163] "as in wildcarding; it is a modifier that applies to the"                                                       
+[164] "preceding single character, or expression such as <code>[0-9]</code>."                                         
+[165] "An asterisk matches <b>zero</b> or more of what precedes it."                                                  
+[166] "Thus <code>[A-Z]*</code> matches any number of upper-case letters,"                                            
+[167] "including none, while <code>[A-Z][A-Z]*</code> matches <b>one</b>"                                             
+[168] "or more upper-case letters."                                                                                   
+[169] "<p>"                                                                                                           
+[170] "The <b>vi</b> editor uses <code>\\&lt; \\&gt;</code> to match characters"                                      
+[171] "at the beginning and/or end of a <b>word boundary</b>."                                                        
+[172] "A word boundary is either the edge of the line or any character"                                               
+[173] "except a letter, digit or underscore \"_\"."                                                                   
+[174] "To look for <code>if</code>, but skip <code>stiff</code>, the"                                                 
+[175] "expression is <code>\\&lt;if\\&gt;</code>."                                                                    
+[176] "For the"                                                                                                       
+[177] "same logic in <b>grep</b>, invoke it with the <b>-w</b> option."                                               
+[178] "And remember that"                                                                                             
+[179] "regular expressions are <b>case-sensitive</b>.  If you don't"                                                  
+[180] "care about the case, the expression to match \"if\" would be"                                                  
+[181] "<code>[Ii][Ff]</code>,"                                                                                        
+[182] "where the characters in <b>square brackets</b> define a character"                                             
+[183] "set from which the pattern must match one character. Alternatively, you"                                       
+[184] "could also invoke <b>grep</b> with the <b>-i</b> option to ignore case."                                       
+[185] "<P>"                                                                                                           
+[186] "Here are a few more examples of <b>grep</b> to show you what"                                                  
+[187] "can be done:"                                                                                                  
+[188] "<p>"                                                                                                           
+[189] "<a href=\"regexpr5.txt\">Text version.</a>"                                                                    
+[190] "<p>"                                                                                                           
+[191] "<table border>"                                                                                                
+[192] "<tr>"                                                                                                          
+[193] "<td>grep '^From: ' /usr/mail/$USER<td>{list your mail}"                                                        
+[194] "<tr>"                                                                                                          
+[195] "<td>grep '[a-zA-Z]'<td>{any line with at least one letter}"                                                    
+[196] "<tr>"                                                                                                          
+[197] "<td>grep '[^a-zA-Z0-9]<td>{anything not a letter or number}"                                                   
+[198] "<tr>"                                                                                                          
+[199] "<td>grep '[0-9]\\{3\\}-[0-9]\\{4\\}'<td>{999-9999, like phone numbers}"                                        
+[200] "<tr>"                                                                                                          
+[201] "<td>grep '^.$'<td>{lines with exactly one character}"                                                          
+[202] "<tr>"                                                                                                          
+[203] "<td>grep '\"smug\"'<td>{'smug' within double quotes}"                                                          
+[204] "<tr>"                                                                                                          
+[205] "<td>grep '\"*smug\"*'<td>{'smug', with or without quotes}"                                                     
+[206] "<tr>"                                                                                                          
+[207] "<td>grep '^\\.'<td>{any line that starts with a Period \".\"}"                                                 
+[208] "<tr>"                                                                                                          
+[209] "<td>grep '^\\.[a-z][a-z]'<td>{line start with \".\" and 2 lc letters}</td></tr>"                               
+[210] "</table>"                                                                                                      
+[211] "<p>"                                                                                                           
+[212] "<hr>"                                                                                                          
+[213] "<a href=\"http://www.robelle.com/\"><img alt=\"[Robelle]\" align=bottom src=\"robelle.gif\"></a>"              
+[214] "<a href=\"welcome.html\"><img alt=\"[SmugBook]\" src=\"smug.gif\"></a>"                                        
+[215] "<a href=\"index.html\"><img alt=\"[Index]\" src=\"index.gif\"></a>"                                            
+[216] "<a href=\"unix.html\"><img alt=\"[Unix]\" src=\"chapter.gif\"></a>"                                            
+[217] "<a href=\"manpages.html\"><img alt=\"[Prev]\" src=\"up.gif\"></a>"                                             
+[218] "<a href=\"whence.html\"><img alt=\"[Next]\" src=\"down.gif\"></a>"                                             
+[219] ""                                                                                                              
+[220] "</body></html>"                                                                                                
+ chr [1:220] "<html><head><title>Regular Expressions in grep</title></head><body background=\"background.gif\">" ...
+[1] "<a href=\"index.html\"><img alt=\"[Index]\" src=\"index.gif\"></a>"
+[2] "<a href=\"unix.html\"><img alt=\"[Unix]\" src=\"chapter.gif\"></a>"
+[3] "<a href=\"manpages.html\"><img alt=\"[Prev]\" src=\"up.gif\"></a>" 
+[4] "<a href=\"whence.html\"><img alt=\"[Next]\" src=\"down.gif\"></a>" 
+[5] ""                                                                  
+[6] "</body></html>"                                                    
+ [1] "<td>grep '^.$'<td>{lines with exactly one character}"                                            
+ [2] "<tr>"                                                                                            
+ [3] "<td>grep '\"smug\"'<td>{'smug' within double quotes}"                                            
+ [4] "<tr>"                                                                                            
+ [5] "<td>grep '\"*smug\"*'<td>{'smug', with or without quotes}"                                       
+ [6] "<tr>"                                                                                            
+ [7] "<td>grep '^\\.'<td>{any line that starts with a Period \".\"}"                                   
+ [8] "<tr>"                                                                                            
+ [9] "<td>grep '^\\.[a-z][a-z]'<td>{line start with \".\" and 2 lc letters}</td></tr>"                 
+[10] "</table>"                                                                                        
+[11] "<p>"                                                                                             
+[12] "<hr>"                                                                                            
+[13] "<a href=\"http://www.robelle.com/\"><img alt=\"[Robelle]\" align=bottom src=\"robelle.gif\"></a>"
+[14] "<a href=\"welcome.html\"><img alt=\"[SmugBook]\" src=\"smug.gif\"></a>"                          
+[15] "<a href=\"index.html\"><img alt=\"[Index]\" src=\"index.gif\"></a>"                              
+[16] "<a href=\"unix.html\"><img alt=\"[Unix]\" src=\"chapter.gif\"></a>"                              
+[17] "<a href=\"manpages.html\"><img alt=\"[Prev]\" src=\"up.gif\"></a>"                               
+[18] "<a href=\"whence.html\"><img alt=\"[Next]\" src=\"down.gif\"></a>"                               
+[19] ""                                                                                                
+[20] "</body></html>"                                                                                  
+[1] 6
+[1] 4 3 9 7
+[1]  TRUE  TRUE  TRUE FALSE FALSE  TRUE
+[1] 4 6 3 5
+$names
+[1] "P" "C" "D"
+
+$values
+[1] 4 5 6 7 8 9
+
+$names
+[1] "P" "C" "D"
+
+[1] "P" "C" "D"
+[1] "P" "C" "D"
+[1] 4 5 6 7 8 9
+$names
+[1] "P" "C" "D"
+
+[1] "C"
+[1] "C"
+[1] "C"
+     [,1] [,2] [,3] [,4] [,5]
+[1,]    2    5    8   11   14
+[2,]    3    6    9   12   15
+[3,]    4    7   10   13   16
+[1] 2
+[1] 3
+[1] 5
+[1] 12
+[1]  3  6  9 12 15
+[1] 11 12 13
+$<NA>
+NULL
+
+[1] 2 3 4
+[1] 2 3 4
+[1] "a" "b" "c"
+   Min. 1st Qu.  Median    Mean 3rd Qu. 
+  3.000   4.000   7.000   6.143   8.000 
+   Max. 
+  9.000 
+   Min. 1st Qu.  Median    Mean 3rd Qu. 
+      3       4       6       6       8 
+   Max.    NA's 
+      9       2 
+[1] NA NA
+[1] 7 4 8 4 8 3 9 5
+[1]  TRUE FALSE FALSE  TRUE FALSE FALSE
+[7]  TRUE
+[1]  TRUE FALSE FALSE  TRUE FALSE FALSE
+[7] FALSE
+    a    b
+1   1    a
+2  NA    b
+3   6 <NA>
+4   2    d
+5 NaN    e
+6   9 <NA>
+7   3    f
+    a    b     c
+1   1    a  TRUE
+2  NA    b FALSE
+3   6 <NA>  TRUE
+4   2    d FALSE
+5 NaN    e  TRUE
+6   9 <NA>  TRUE
+7   3    f    NA
+[1]  TRUE FALSE FALSE  TRUE FALSE FALSE
+[7] FALSE
+  a b     c
+1 1 a  TRUE
+4 2 d FALSE
+[1]  0 28  6  6
+     [,1]
+[1,]   40
+     [,1]
+[1,]    3
+[2,]    4
+[3,]    5
+[4,]    6
+     [,1]
+[1,]    9
+[2,]   16
+[3,]   15
+[4,]   12
+     [,1]
+[1,]   52
+     [,1] [,2] [,3]
+[1,]    2    4    6
+[2,]    3    5    7
+     [,1] [,2]
+[1,]    7   10
+[2,]    8   11
+[3,]    9   12
+     [,1] [,2]
+[1,]  100  136
+[2,]  124  169
